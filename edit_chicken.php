@@ -43,6 +43,7 @@ if (isset($_GET['id'])) {
             align-items: center;
             justify-content: center;
             min-height: 100vh;
+            background-image: url(chicken_3.jpg);
         }
 
         h1 {

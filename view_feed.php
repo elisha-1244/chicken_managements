@@ -40,11 +40,12 @@ $feed_records = $stmt->fetchAll(PDO::FETCH_ASSOC);
             align-items: center;
             justify-content: center;
             min-height: 100vh;
+            background-image: url(chicken_1.jpg);
         }
 
         h1 {
             font-size: 24px;
-            color: #333;
+            color: white;
             margin-bottom: 20px;
             text-align: center;
         }

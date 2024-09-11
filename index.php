@@ -16,6 +16,7 @@
             align-items: center;
             height: 100vh;
             flex-direction: column;
+            background-image: url(chicken_3.jpg);
         }
 
         .container {
